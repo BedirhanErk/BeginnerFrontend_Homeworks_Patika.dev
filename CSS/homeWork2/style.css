@@ -1,0 +1,65 @@
+/* General */
+.center {
+    text-align: -webkit-center;
+}
+
+/* Image */
+img {
+    width: 351px;
+    height: 113px;
+    aspect-ratio: auto 351 / 113;
+}
+
+/* Search and Links */
+table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+}
+
+.td-gray {
+    background-color: #EEEEEE;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.td-1 {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.td-2 {
+    background-color: #70CCC2;
+}
+
+.td-3 {
+    background-color: #62B3AA;
+}
+
+#search-input {
+    width: 18%;
+}
+
+/* Footer */
+#footer {
+    font-size: small;
+}
