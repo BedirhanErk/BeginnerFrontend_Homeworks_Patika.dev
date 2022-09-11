@@ -22,3 +22,6 @@
 9- Dizinin 9.elemanı olan 4, 7'den küçük olduğu için 7'nin soluna geçer. Sol tarafta bulunan ilk eleman 5'den küçük olduğu için 5'in soluna geçer. Sol tarafta bulunan ikinci eleman 1'den büyük olduğu için 1'in sağına geçer. 1'in sağında 3 var. 3'den büyük olduğu için 3'ün sağına yazılır.
 
 10- Dizinin 10.elemanı olan 2, 7'den küçük olduğu için 7'nin soluna geçer. Sol tarafta bulunan ilk eleman 5'den küçük olduğu için 5'in soluna geçer. Sol tarafta bulunan ikinci eleman 1'den büyük olduğu için 1'in sağına geçer. 1'in sağında 3 var. 3'den küçük olduğu için 3'ün soluna yazılır.
+
+
+![](imagehw3_1.png)
