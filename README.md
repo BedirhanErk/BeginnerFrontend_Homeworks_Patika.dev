@@ -9,7 +9,7 @@ Bu patika boyunca yaptığım projeleri aşağıdan görebilir ve detaylı olara
     - Güllaç Tarifi
     - Bölüm Sonu Çalışması
 
-![](HTML\html.gif)
+![](https://i.hizliresim.com/58m1k07.gif)
 
 ## 2- CSS
 
@@ -17,7 +17,7 @@ Bu patika boyunca yaptığım projeleri aşağıdan görebilir ve detaylı olara
     - Google 1988 Clone
     - Google Clone
 
-![](CSS/css.gif)
+![](https://i.hizliresim.com/l8awln1.gif)
 
 ## 3- Bootstrap
 
@@ -26,7 +26,7 @@ Bu patika boyunca yaptığım projeleri aşağıdan görebilir ve detaylı olara
     - LinkedIn Clone
     - Medium Clone
 
-![](Bootstrap/bootstrap.gif)
+![](https://i.hizliresim.com/6z7zqru.gif)
 
 ## 4- JavaScript
 
@@ -34,7 +34,7 @@ Bu patika boyunca yaptığım projeleri aşağıdan görebilir ve detaylı olara
     - To Do List
     - Asian Kitchen's Menu
 
-![](JavaScript/javascript.gif)
+![](https://i.hizliresim.com/g037i1a.gif)
 
 
 ## Proje Bitirme Sertifikası
