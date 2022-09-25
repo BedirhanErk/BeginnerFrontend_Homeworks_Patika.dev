@@ -37,6 +37,6 @@ Bu patika boyunca yaptığım projeleri aşağıdan görebilir ve detaylı olara
 ![](https://i.hizliresim.com/g037i1a.gif)
 
 
-## Proje Bitirme Sertifikası
+## [Proje Bitirme Sertifikası](https://app.patika.dev/certificates/9b30286c)
 
 ![Sertfika](Ba%C5%9Flang%C4%B1%C3%A7%20Seviye%20Frontend%20Web%20Development%20Patikas%C4%B1%20ENG.jpg)
